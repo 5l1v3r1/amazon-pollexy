@@ -1,5 +1,5 @@
 mock==2.0.0
-requests==2.13.0
+requests==2.20.0
 icalendar==4.0.0
 sounddevice==0.3.7
 setuptools==35.0.1
